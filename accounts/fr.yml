@@ -1,0 +1,18 @@
+﻿fr:
+  accounts:
+    current_password: "Votre mot de passe"
+    email: "E-mail"
+    feedback: "Feedback"
+    license: "Statistiques liées aux licences"
+    license_text: "Consultez les statistiques liées à l'utilisation de licences jamvee pour votre entreprise"
+    my_meetings: "Mes réunions vidéo programmées"
+    my_pin: "Mon code pin de visioconférence à la demande"
+    my_profile: "Mon profil"
+    my_resources: "Mes ressources"
+    my_rooms: "Mes salles de réunion virtuelles %{product_name} (VMR)"
+    not_subscribed: "Il semble que %{name} n'ait pas de compte jamvee™"
+    old_password: "Ancien mot de passe"
+    password: "Mot de passe"
+    password_confirmation: "Confirmez le mot de passe"
+    provide_feedback: "Fournissez des remarques concernant votre expérience jamvee"
+    rooms_and_cals: "Salles et calendriers"

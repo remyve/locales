@@ -1,0 +1,17 @@
+﻿fr:
+  vmrs:
+    access_code: "Code d'accès"
+    access_delete_confirm: "Êtes-vous sûr de vouloir supprimer cette méthode d'accès ?"
+    access_methods: "Méthodes d'accès"
+    access_profile: "Profil d'accès"
+    access_uri_sip: "URI d'accès (SIP)"
+    access_url_web: "URL d'accès (WebRTC)"
+    actions: "Actions"
+    call_profile: "Profil d'appel"
+    conference_profile: "Profil de conférence"
+    finish_send_email: "Terminer et envoyer un e-mail"
+    none: "Aucun"
+    secret_key: "Clé secrète"
+    view_access_methods: "Visualiser les méthodes d'accès"
+    vmr_delete_confirm: "Êtes-vous sûr de vouloir supprimer cette VMR ?"
+    your_meeting_room: "Le nom de votre salle de réunion"

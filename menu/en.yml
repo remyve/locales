@@ -1,0 +1,54 @@
+en:
+  menu:
+    contact_us: 'Contact Us'
+    login: 'Login'
+    logout: 'Logout'
+    manage: 'Manage'
+    meeting_control: 'Meeting Control'
+    my_account: 'My Account'
+    reports: 'Reports'
+    support: 'Support'
+    # Reports
+    active_vmr: 'Active VMR Ramp Up Report'
+    conference_details: 'Conference Details'
+    conference_report: 'Conference Report'
+    multipoint_report: 'MultiPoint Conference Statistics'
+    ptpt_report: 'Pt_Pt Conference Statistics'
+    scheduled_conference: 'Conference Reports'
+    usage_by_room: 'Usage By Room'
+    vmr_reports: 'VMR Reports'
+    vmr_usage_report: 'VMR Usage Report'
+    # Manage
+    conferences: 'Conferences'
+    enterprises: 'Enterprises'
+    partners: 'Partners'
+    rooms: 'Rooms'
+    users: 'Users'
+    # Support
+    app_download: 'App Download'
+    apps: 'Apps'
+    apps_dls: "Apps and Downloads"
+    contact_support: "Contact Support"
+    create_request: 'Create Request'
+    create_ticket: "Create a Ticket"
+    docs: 'Documentation'
+    faq: 'FAQ'
+    guides: "Guides and Tutorials"
+    partner_docs: 'Partner Documentation'
+    pop_queries: "Popular Queries"
+    service_info: "Service Information and Updates"
+    support_contact: 'Support Contact'
+    ticket: 'Open a Ticket'
+    # Footer links
+    acceptable_use: 'Acceptable Use Policy'
+    privacy_policy: 'Privacy Policy'
+    terms_of_use: 'Terms of Use'
+
+
+
+
+
+
+
+
+

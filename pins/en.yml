@@ -1,0 +1,5 @@
+en:
+  pins:
+    host_pin: 'Host Pin'
+    participant_pin: 'Participant Pin'
+

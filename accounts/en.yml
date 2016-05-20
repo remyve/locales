@@ -1,0 +1,18 @@
+en:
+  accounts:
+    current_password: 'Current Password'
+    email: 'E-mail'
+    feedback: 'Feedback'
+    license: 'License Statistics'
+    license_text: 'View jamvee license consumption statistics for your enterprise'
+    my_meetings: 'My Scheduled Video Meetings'
+    my_pin: 'My OnDemand Video Conferencing Pin'
+    my_profile: 'My Profile'
+    my_resources: 'My Resources'
+    my_rooms: 'My %{product_name} Meeting Rooms'
+    not_subscribed: 'Seems like %{name} has not subscribed to jamvee&#8482;'
+    old_password: 'Old Password'
+    password: 'Password'
+    password_confirmation: 'Confirm Password'
+    provide_feedback: 'Provide feedback regarding your jamvee experience'
+    rooms_and_cals: 'Rooms and Calendars'

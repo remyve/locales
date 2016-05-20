@@ -1,0 +1,13 @@
+en:
+  bookings:
+    booking_properties: 'Booking Properties'
+    conference: 'Conference'
+    delete_confirmation: 'Are you sure you want to delete this booking?'
+    important_note: 'Important Note:'
+    important_note_text: 'The room availabilities shown above are based on conferences booked through this portal only. It may not reflect the accurate schedule of a room if the room is booked by any other sources apart from this portal.'
+    maintenance: 'Maintenance'
+    manage_bookings: 'Manage Bookings'
+    properties: 'Booking Properties'
+    reason: 'Booking Reason'
+    reservation: 'Reservation'
+    title: 'Booking Title'

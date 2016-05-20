@@ -1,0 +1,18 @@
+en:
+  vmrs:
+    no_vmrs: "doesn't seem to have any Virtual Meeting Rooms"
+    access_code: 'Access Code'
+    access_delete_confirm: 'Are you sure you want to delete this Access Method?'
+    access_methods: 'Access Methods'
+    access_profile: 'Access Profile'
+    access_uri_sip: 'Access URI (SIP)'
+    access_url_web: 'Access URL (WebRTC)'
+    actions: 'Actions'
+    call_profile: 'Call Profile'
+    conference_profile: 'Conference Profile'
+    finish_send_email: 'Finish and Send Email'
+    none: 'None'
+    secret_key: 'Secret Key'
+    view_access_methods: 'View Access Methods'
+    vmr_delete_confirm: 'Are you sure you want to delete this VMR?'
+    your_meeting_room: 'Your Meeting Room Name'
