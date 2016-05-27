@@ -1,63 +1,63 @@
 ﻿fr:
   rooms:
-    accomodates: "Accueille"
-    address_1: "Adresse ligne 1"
-    address_2: "Adresse ligne 2"
-    bandwidths: "Bandes passantes"
-    bandwidths_cap: "BANDES PASSANTES"
-    city: "Ville"
-    connection_props: "Propriétés de connexion"
-    country: "Pays"
-    create_room: "Créer une salle"
-    delete_confirm: "Souhaitez-vous supprimer cette salle ?"
-    e164_alias: "Alias E164"
-    e164_alias_cap: "ALIAS E.164"
-    e164_number: "Numéro E164"
-    e164_numbers: "Numéros E164"
-    email_addresses: "Adresses e-mail"
-    endpoint_make: "Création de terminal"
-    endpoint_properties: "Propriétés du terminal"
-    endpoint_type: "Type de terminal"
-    equipment_contacts: "Contacts liés aux équipements"
-    equipment_make: "Marque des équipements"
-    equipment_model: "Modèle d'équipement"
-    equipment_model: "Modèle d'équipement"
-    extended_properties: "Propriétés étendues"
-    filter: "Filtre"
-    from: "De"
-    gmx_connection: "Connexion GMX"
-    gmx_connection_cap: "CONNEXION GMX"
-    h323_ext: "Extensions H323"
-    h323_ext_cap: "EXTENSIONS H.323"
-    include_public_rooms: "Inclure les salles publiques"
-    ip_address: "Adresse IP"
-    ip_address_type: "Type d'adresse IP"
-    ip_addresses: "Adresses IP"
-    ip_addresses_cap: "ADRESSES IP"
-    lite720_only: "720 Lite seulement"
-    located_country: "Situé dans le pays"
-    location: "Lieu"
-    manage_rooms: "Gérer les salles"
-    modify_room: "Modifier la salle"
-    network_name: "Nom du réseau"
-    number_screens: "Nombre d'écrans"
-    postal_code: "Code postal"
-    room_availability: "Disponibilité de la salle"
-    room_description: "Description de la salle"
-    room_info: "Informations sur la salle"
-    room_properties: "Propriétés de la salle"
-    room_selection: "Choix de la salle"
-    room_type: "Type de salle"
-    rooms: "Salles"
-    search_results: "Résultats de la recherche"
-    search_rooms: "Rechercher des salles"
-    seating_capacity: "Capacité de places assises"
-    serial_number: "Numéro de série"
-    service_type: "Type de service"
-    sip_addresses: "Adresses SIP"
-    sip_addresses_cap: "ADRESSES SIP"
-    software_version: "Version du logiciel"
-    state: "État"
-    status: "Statut"
-    timezone_id: "Identifiant de fuseau horaire"
-    to: "À"
+    accomodates: 'Accueille'
+    address_1: 'Adresse ligne 1'
+    address_2: 'Adresse ligne 2'
+    bandwidths: 'Bandes passantes'
+    bandwidths_cap: 'BANDES PASSANTES'
+    city: 'Ville'
+    connection_props: 'Propriétés de connexion'
+    country: 'Pays'
+    create_room: 'Créer une salle'
+    delete_confirm: 'Souhaitez-vous supprimer cette salle ?'
+    e164_alias: 'Alias E164'
+    e164_alias_cap: 'ALIAS E.164'
+    e164_number: 'Numéro E164'
+    e164_numbers: 'Numéros E164'
+    email_addresses: 'Adresses e-mail'
+    endpoint_make: 'Marque du terminal'
+    endpoint_properties: 'Propriétés du terminal'
+    endpoint_type: 'Type de terminal'
+    equipment_contacts: 'Contacts pour les équipements'
+    equipment_make: 'Marque des équipements'
+    equipment_model: 'Modèle d'équipements'
+    equipment_model: 'Modèle d'équipements'
+    extended_properties: 'Propriétés étendues'
+    filter: 'Filtre'
+    from: 'De'
+    gmx_connection: 'Connexion GMX'
+    gmx_connection_cap: 'CONNEXION GMX'
+    h323_ext: 'Extensions H323'
+    h323_ext_cap: 'EXTENSIONS H.323'
+    include_public_rooms: 'Inclure les salles publiques'
+    ip_address: 'Adresse IP'
+    ip_address_type: 'Type d'adresse IP'
+    ip_addresses: 'Adresses IP'
+    ip_addresses_cap: 'ADRESSES IP'
+    lite720_only: '720 Lite seulement'
+    located_country: 'Situé dans le pays'
+    location: 'Lieu'
+    manage_rooms: 'Gérer les salles'
+    modify_room: 'Modifier la salle'
+    network_name: 'Nom du réseau'
+    number_screens: 'Nombre d'écrans'
+    postal_code: 'Code postal'
+    room_availability: 'Disponibilité de la salle'
+    room_description: 'Description de la salle'
+    room_info: 'Informations sur la salle'
+    room_properties: 'Propriétés de la salle'
+    room_selection: 'Choix de la salle'
+    room_type: 'Type de salle'
+    rooms: 'Salles'
+    search_results: 'Résultats de la recherche'
+    search_rooms: 'Rechercher des salles'
+    seating_capacity: 'Capacité'
+    serial_number: 'Numéro de série'
+    service_type: 'Type de service'
+    sip_addresses: 'Adresses SIP'
+    sip_addresses_cap: 'ADRESSES SIP'
+    software_version: 'Version du logiciel'
+    state: 'État'
+    status: 'Statut'
+    timezone_id: 'Identifiant de fuseau horaire'
+    to: 'À'

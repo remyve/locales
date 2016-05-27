@@ -1,5 +1,5 @@
 ﻿fr:
   pins:
-    host_pin: "Pin de l'hôte"
-    participant_pin: "Pin du participant"
+    host_pin: 'Pin de l'organisateur'
+    participant_pin: 'Pin du participant'
 

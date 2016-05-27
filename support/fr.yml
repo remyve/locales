@@ -1,20 +1,20 @@
 ﻿fr:
   support:
-    app_store: "App Store"
-    available: "Disponible sur l'"
-    calendar_plugin: "Plugin de calendrier pour"
-    create_request: "Créer une demande d'assistance"
-    description: "Description"
-    download_for: "Télécharger pour"
-    need_add_info: "Besoin d'informations supplémentaires"
-    open_source: "%{text} s'appuie sur une série de bibliothèques Open Sources. La liste de chaque bibliothèque utilisée et des licences associées sont fournies à titre de référence."
-    osx: "Mac OS"
-    outlook: "Microsoft Outlook"
-    please_note: "Veuillez noter"
-    request_area: "Zone de requête"
-    sound_and_video: "Le %{text} utilise les options de vidéo et de son de votre appareil pour réaliser un appel vidéo ; la qualité de l'appel en question peut être affectée par la bande passante disponible"
-    success_download: "Le téléchargement réussi de toute application logicielle peut être limité par les options de pare-feu ou les serveurs proxy d'entreprise."
-    user_guide: "Le guide d'utilisateur fournit des informations sur l'utilisation pour vous permettre de profiter de la meilleure expérience de réunion vidéo avec le %{text}."
-    user_guide: "Guide d'utilisateur"
-    what_issue: "Quel problème rencontrez-vous ?"
-    windows: "Windows"
+    app_store: 'App Store'
+    available: 'Disponible sur l''
+    calendar_plugin: 'Plugin de calendrier pour'
+    create_request: 'Ouvrir un ticket'
+    description: 'Description'
+    download_for: 'Télécharger pour'
+    need_add_info: 'Besoin d'informations supplémentaires'
+    open_source: '%{text} s'appuie sur une série de bibliothèques Open Sources. La liste de chaque bibliothèque utilisée et des licences associées sont fournies à titre de référence.'
+    osx: 'Mac OS'
+    outlook: 'Microsoft Outlook'
+    please_note: 'Veuillez noter'
+    request_area: 'Zone de requête'
+    sound_and_video: 'Le %{text} utilise les options de vidéo et de son de votre appareil pour réaliser un appel vidéo ; la qualité de l'appel en question peut être affectée par la bande passante disponible'
+    success_download: 'Le téléchargement réussi de toute application logicielle peut être limité par les options de pare-feu ou les serveurs proxy d'entreprise.'
+    user_guide: 'Le guide d'utilisateur fournit des consignes d'utilisation vous permettant de profiter de la meilleure expérience en matière de réunion vidéo avec le %\{text}.'
+    user_guide: 'Guide d'utilisateur'
+    what_issue: 'Quel problème rencontrez-vous ?'
+    windows: 'Windows'

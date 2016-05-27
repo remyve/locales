@@ -1,7 +1,7 @@
 ﻿fr:
   misc:
-    are_you_sure: "Êtes-vous sûr ?"
-    copyright_html: "© 2014 Tata Communications Ltd. Tous droits réservés. Jamvee™ est une marque déposée de Tata Communications (Bermuda) Limited dans certains pays."
-    error: "Erreur"
-    success: "Réussi"
-    warning: "Avertissement"
+    are_you_sure: 'Êtes-vous sûr ?'
+    copyright_html: '© 2014 Tata Communications Ltd. Tous droits réservés. Jamvee™ est une marque déposée de Tata Communications (Bermuda) Limited dans certains pays.'
+    error: 'Erreur'
+    success: 'Réussi'
+    warning: 'Avertissement'

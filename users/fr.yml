@@ -1,34 +1,34 @@
 ﻿fr:
   users:
-    account_permissions: "Autorisations de compte"
-    account_reset: "Réinitialisation de compte"
-    bulk_user: "Utilisateurs en groupe"
-    company: "Entreprise"
-    conference_reader: "Lecteur de conférence"
-    conference_scheduler: "Planificateur de conférence"
-    conferencing_pin: "Pin de conférence vidéo à la demande"
-    conferencing_username: "Mon nom d'utilisateur de l'appli"
-    country: "Pays"
-    country_code: "Code pays"
-    create_users_only: "Créer des utilisateurs uniquement (les services seront configurés manuellement)"
-    dashboard: "Tableau de bord de l'utilisateur"
-    delete_confirm: "Cette action ne peut pas être annulée. Êtes-vous sûr ?"
-    department: "Département"
-    email_confirm: "Cela générera un e-mail pour l'utilisateur avec un lien de réinitialisation du mot de passe. Êtes-vous sûr ?"
-    enterprise_admin: "Administrateur de l'entreprise"
-    exchange_reader: "Lecteur de l'identifiant Exchange"
-    first_name: "Prénom"
-    jamvee_ondemand: "Conférence vidéo à la demande Jamvee"
-    jamvee_unified: "Communications unifiées Jamvee"
-    last_name: "Nom"
-    meeting_rooms: "Salles de réunion virtuelles"
-    normal_user: "Utilisateur normal"
-    phone: "Téléphone"
-    phone_number: "Numéro de téléphone"
-    preferred_language: "Langue préférée"
-    roles: "Rôles"
-    room_admin: "Administrateur de la salle"
-    scheduled_meetings: "Réunions programmées"
-    select_creation: "Sélectionnez une méthode de création"
-    single_user: "Utilisateur unique"
-
+    account_permissions: 'Autorisations du compte'
+    account_reset: 'Réinitialisation du compte'
+    bulk_user: 'Utilisateurs en groupe'
+    company: 'Entreprise'
+    conference_reader: 'Vue des conférences'
+    conference_scheduler: 'Planification de conférence'
+    conferencing_pin: 'Pin de conférence vidéo à la demande'
+    conferencing_username: 'Mon nom d'utilisateur de l'appli'
+    country: 'Pays'
+    country_code: 'Code pays'
+    create_users_only: 'Créer des utilisateurs uniquement (les services seront configurés manuellement)'
+    dashboard: 'Tableau de bord de l'utilisateur'
+    delete_confirm: 'Cette action ne peut pas être annulée. Êtes-vous sûr ?'
+    department: 'Département'
+    email_confirm: 'Cela générera un e-mail pour l'utilisateur avec un lien de réinitialisation du mot de passe. Êtes-vous sûr ?'
+    enterprise_admin: 'Administrateur de l'entreprise'
+    exchange_reader: 'Vue de l'exchange ID'
+    first_name: 'Prénom'
+    jamvee_ondemand: 'Conférence vidéo à la demande Jamvee'
+    jamvee_unified: 'Jamvee Communications unifiées'
+    last_name: 'Nom'
+    meeting_rooms: 'Salles de réunion virtuelles'
+    normal_user: 'Utilisateur normal'
+    phone: 'Téléphone'
+    phone_number: 'Numéro de téléphone'
+    preferred_language: 'Langue préférée'
+    roles: 'Rôles'
+    room_admin: 'Administrateur de la salle'
+    scheduled_meetings: 'Réunions programmées'
+    select_creation: 'Sélectionnez une méthode de création'
+    single_user: 'Utilisateur unique'
+    user_priority: « Priorité utilisateur »

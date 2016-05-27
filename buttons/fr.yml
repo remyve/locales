@@ -1,58 +1,63 @@
 ﻿fr:
   buttons:
-    add: "Ajouter"
-    add_to_list: "Ajouter à la liste"
-    add_vmr: "Ajouter une salle de réunion virtuelle"
-    cancel: "Annuler"
-    change: "Modifier"
-    change_password: "Modifier le mot de passe"
-    click_info: "Cliquer ici pour plus d'informations"
-    create: "Créer"
-    create_booking: "Créer une réservation"
-    create_enterprise: "Créer une entreprise"
-    create_pins: "Créer des pins"
-    create_request: "Créer une demande"
-    create_rooms: "Créer des salles"
-    create_user: "Créer un utilisateur"
-    create_user_account: "Créer un compte d'utilisateur"
-    csv: "CSV"
-    delete: "Supprimer"
-    delete_booking: "Supprimer la réservation"
-    delete_enterprise: "Supprimer l'entreprise"
-    delete_pins: "Supprimer les pins"
-    delete_user: "Supprimer l'utilisateur"
-    download: "Télécharger"
-    execute: "Exécuter"
-    finish: "Terminer"
-    forgot_inline: "Oublié ?"
-    forgot_password: "Mot de passe oublié"
-    login: "Se connecter"
-    manage: "Gérer"
-    manage_enterprise: "Gérer l'entreprise"
-    manage_user_account: "Gérer le compte d'utilisateur"
-    manage_users: "Gérer les utilisateurs"
-    meeting_control: "Contrôle de la réunion"
-    modify: "Modifier"
-    modify_booking: "Modifier la réservation"
-    modify_conference: "Modifier la conférence"
-    modify_rooms: "Modifier/Réserver des salles"
-    new_meeting: "Nouvelle réunion"
-    new_partner: "Nouveau partenaire"
-    new_scheduled_meeting: "Nouvelle réunion programmée"
-    pdf: "PDF"
-    regenerate: "Renouveler"
-    reset: "Réinitialiser"
-    reset_password: "Réinitialiser le mot de passe"
-    return_to_login: "Retour à l'écran de connexion"
-    review_and_submit: "Revoir et soumettre"
-    save_changes: "Enregistrer les modifications"
-    search: "Rechercher"
-    start: "Démarrer"
-    submit: "Soumettre"
-    update_user_account: "Mettre à jour le compte d'utilisateur"
-    updated_pins: "Mettre à jour les pins"
-    view: "Afficher"
-    view_conference: "Afficher la réunion"
-    view_details: "Afficher les détails"
-    vmr: "Salle de réunion virtuelle"
+    add: 'Ajouter'
+    added: 'Ajouté'
+    add_to_list: 'Ajouter à la liste'
+    add_vmr: 'Ajouter une VMR'
+    back: 'Retour'
+    cancel: 'Annuler'
+    change: 'Modifier'
+    change_password: 'Modifier le mot de passe'
+    click_info: 'Cliquer ici pour plus d'informations'
+    create: 'Créer'
+    create_booking: 'Faire une réservation'
+    create_enterprise: 'Créer une entreprise'
+    create_pins: 'Créer des pins'
+    create_request: 'Créer une demande'
+    create_rooms: 'Créer des salles'
+    create_user: 'Créer un utilisateur'
+    create_user_account: 'Créer un compte utilisateur'
+    csv: 'CSV'
+    delete: 'Supprimer'
+    delete_booking: 'Supprimer la réservation'
+    delete_enterprise: 'Supprimer l'entreprise'
+    delete_pins: 'Supprimer les pins'
+    delete_user: 'Supprimer l'utilisateur'
+    download: 'Télécharger'
+    edit: 'Modifier'
+    execute: 'Exécuter'
+    finish: 'Terminer'
+    forgot_inline: 'Oublié ?'
+    forgot_password: 'Mot de passe oublié'
+    login: 'Se connecter'
+    manage: 'Gérer'
+    manage_enterprise: 'Gérer les entreprises'
+    manage_user_account: 'Gérer le compte de l'utilisateur'
+    manage_users: 'Gérer les utilisateurs'
+    meeting_control: 'Contrôle de la réunion'
+    modify: 'Modifier'
+    modify_booking: 'Modifier la réservation'
+    modify_conference: 'Modifier la conférence'
+    modify_rooms: 'Modifier/Réserver des salles'
+    new: 'Nouveau'
+    new_meeting: 'Nouvelle réunion'
+    new_partner: 'Nouveau partenaire'
+    new_scheduled_meeting: 'Nouvelle réunion programmée'
+    pdf: 'PDF'
+    regenerate: 'Renouveler'
+    reset: 'Réinitialiser'
+    reset_password: 'Réinitialiser le mot de passe'
+    return_to_login: 'Retour à l'écran de connexion'
+    review_and_submit: 'Revoir et soumettre'
+    save_changes: 'Enregistrer les modifications'
+    search: 'Rechercher'
+    start: 'Démarrer'
+    save: 'Enregistrer'
+    submit: 'Soumettre'
+    update_user_account: 'Mettre à jour le compte d'utilisateur'
+    update_pins: 'Mettre à jour les pins'
+    view: 'Afficher'
+    view_conference: 'Afficher la réunion'
+    view_details: 'Afficher les détails'
+    vmr: 'Salle de réunion virtuelle'
 

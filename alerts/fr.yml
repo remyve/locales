@@ -1,78 +1,78 @@
 ﻿fr:
   alerts:
-    account_updated: "Votre compte a été mis à jour avec succès"
-    bad_login_html: "<strong>Erreur :</strong> L'e-mail et le mot de passe fournis sont incorrects"
-    bad_meeting_id: "Désolés, il n'existe aucune réunion possédant cet identifiant"
-    bad_room_id: "Désolés, il n'existe aucune salle possédant cet identifiant"
-    bad_room_ids: "Désolés, nous n'avons pas pu trouver de salles possédant les identifiants suivants"
-    booking_created: "Réservation créée avec succès"
-    booking_deleted: "Réservation supprimée avec succès"
-    conference_not_found: "Désolés, cette conférence est introuvable."
-    contact_sent: "Merci. Votre demande a été envoyée et nous vous recontacterons prochainement."
-    endpoint_created: "Terminal créé avec succès"
-    endpoint_deleted: "La salle a été supprimée avec succès"
-    endpoint_not_deleted: "Impossible de supprimer cette salle"
-    endpoint_updated: "Terminal mis à jour avec succès"
-    enterprise_deleted: "Entreprise supprimée avec succès."
-    enterprise_updated: "Entreprise mise à jour avec succès."
-    file_no_access: "Désolés, vous n'avez pas accès à ce fichier"
-    file_no_exist: "Désolés, ce fichier n'existe pas"
-    inactivity: "Vous avez été déconnecté pour cause d'inactivité. Veuillez vous connecter pour continuer."
-    invalid_email: "Adresse e-mail fournie invalide"
-    invalid_reset_link: "Désolés, ce lien de réinitialisation du mot de passe n'est pas valide"
-    meeting_cancelled: "La réunion programmée a été annulée avec succès"
-    meeting_not_cancelled: "Impossible d'annuler cette réunion programmée"
-    meeting_scheduled: "Réunion programmée avec succès"
-    meeting_series_cancelled: "La série de réunions a été annulée avec succès"
-    meeting_updated: "La réunion a été mise à jour avec succès"
+    account_updated: 'Votre compte a été mis à jour avec succès'
+    bad_login_html: '<strong>Erreur :</strong> L'e-mail et le mot de passe fournis sont incorrects'
+    bad_meeting_id: 'Désolés, il n'existe aucune réunion avec cet identifiant'
+    bad_room_id: 'Désolés, il n'existe aucune salle avec cet identifiant'
+    bad_room_ids: 'Désolés, nous n'avons pas pu trouver de salles avec les identifiants suivants'
+    booking_created: 'Réservation créée avec succès'
+    booking_deleted: 'Réservation supprimée avec succès'
+    conference_not_found: 'Désolés, cette conférence est introuvable.'
+    contact_sent: 'Merci. Votre demande a été envoyée et nous vous recontacterons prochainement.'
+    endpoint_created: 'Terminal créé avec succès'
+    endpoint_deleted: 'La salle a été supprimée avec succès'
+    endpoint_not_deleted: 'Impossible de supprimer cette salle'
+    endpoint_updated: 'Terminal mis à jour avec succès'
+    enterprise_deleted: 'Entreprise supprimée avec succès.'
+    enterprise_updated: 'Entreprise mise à jour avec succès.'
+    file_no_access: 'Désolés, vous n'avez pas accès à ce fichier'
+    file_no_exist: 'Désolés, ce fichier n'existe pas'
+    inactivity: 'Vous avez été déconnecté pour cause d'inactivité. Veuillez vous connecter pour continuer.'
+    invalid_email: 'Adresse e-mail fournie invalide'
+    invalid_reset_link: 'Désolés, ce lien de réinitialisation du mot de passe n'est pas valide'
+    meeting_cancelled: 'La réunion programmée a été annulée avec succès'
+    meeting_not_cancelled: 'Impossible d'annuler cette réunion programmée'
+    meeting_scheduled: 'Réunion programmée avec succès'
+    meeting_series_cancelled: 'La série de réunions a été annulée avec succès'
+    meeting_updated: 'La réunion a été mise à jour avec succès'
     no_access: "Désolés, vous n'avez pas accès à cette zone."
-    no_access_method: "Impossible de trouver ce mode d'accès ; veuillez actualiser et réessayer"
-    no_apps: "Désolés, aucune appli n'est disponible au téléchargement en ce moment"
-    no_creds: "Pas d'identifiants"
-    no_creds_msg: "L'appel n'a pas pu être effectué vers l'API Unify car il n'existe aucun identifiant"
-    no_enterprise: "Aucune entreprise trouvée correspondant aux critères de recherche"
-    no_error_found: "Aucun message d'erreur n'a été trouvé"
-    no_partners_msg: "Nous n'avons pas pu récupérer les partenaires depuis Unify. Voici ceux que nous avons enregistrés localement."
+    no_access_method: 'Impossible de trouver ce mode d'accès ; veuillez actualiser et réessayer'
+    no_apps: 'Désolés, aucune appli n'est disponible au téléchargement en ce moment'
+    no_creds: 'Pas d'identifiants'
+    no_creds_msg: 'L'appel n'a pas pu être effectué vers l'API Unify car il n'existe aucun identifiant'
+    no_enterprise: 'Aucune entreprise trouvée correspondant aux critères de recherche'
+    no_error_found: 'Aucun message d'erreur n'a été trouvé'
+    no_partners_msg: 'Nous n'avons pas pu récupérer les partenaires depuis Unify. Voici ceux que nous avons enregistrés localement.'
     no_partners_title: "Impossible de récupérer les partenaires d'Unify"
-    no_report_access: "Cet utilisateur n'est pas autorisé à accéder au rapport de synthèse de commande de projet de prix agréé."
-    no_users: "Désolés, nous n'avons trouvé aucun utilisateur correspondant à cette requête"
-    no_vmr: "Désolés, nous n'avons trouvé aucune VMR correspondant à cet identifiant."
-    not_update_alert: "Désolés, nous n'avons pas pu mettre à jour l'alerte"
-    partner_created: "Partenaire créé avec succès"
-    partner_deleted: "Partenaire supprimé avec succès"
-    partner_not_created: "Création du partenaire impossible"
-    partner_not_updated: "Mise à jour du partenaire impossible"
-    partner_updated: "Partenaire mis à jour avec succès"
-    password_changed: "Votre mot de passe a été modifié avec succès"
-    password_expired_html: "<strong>Erreur :</strong> Votre mot de passe a expiré<br/><a href='%{path}'>Cliquez ici</a> pour définir un nouveau mot de passe."
-    password_incorrect: "Désolés, votre mot de passe est incorrect"
-    password_update_fail: "Échec de la mise à jour du mot de passe"
-    password_update_msg: "Désolés, nous n'avons pas pu mettre à jour votre mot de passe :"
-    pin_attach_enterprise: "Désolés, vous devez être rattaché à une entreprise pour obtenir un profil pin"
-    pin_deleted: "Le profil pin a été supprimé avec succès"
-    pin_no_delete: "Impossible de supprimer ce profil pin"
-    pin_no_so_account: "Aucun profil pin n'a pu être créé pour vous car votre entreprise ne dispose d'aucune offre de services associée"
+    no_report_access: "Cet utilisateur n'est pas autorisé à accéder au rapport de commandes en forfait regroupé."
+    no_users: 'Désolés, nous n'avons trouvé aucun utilisateur correspondant à cette requête'
+    no_vmr: 'Désolés, nous n'avons trouvé aucune VMR correspondant à cet identifiant.'
+    not_update_alert: 'Désolés, nous n'avons pas pu mettre à jour l'alerte'
+    partner_created: 'Partenaire créé avec succès'
+    partner_deleted: 'Partenaire supprimé avec succès'
+    partner_not_created: 'Création du partenaire impossible'
+    partner_not_updated: 'Mise à jour du partenaire impossible'
+    partner_updated: 'Partenaire mis à jour avec succès'
+    password_changed: 'Votre mot de passe a été modifié avec succès'
+    password_expired_html: '<strong>Erreur :</strong> Votre mot de passe a expiré<br/><a href='%{path}'>Cliquez ici</a> pour définir un nouveau mot de passe.'
+    password_incorrect: 'Désolés, votre mot de passe est incorrect'
+    password_update_fail: 'Échec de la mise à jour du mot de passe'
+    password_update_msg: 'Désolés, nous n'avons pas pu mettre à jour votre mot de passe :'
+    pin_attach_enterprise: 'Désolés, vous devez être rattaché à une entreprise pour obtenir un profil pin'
+    pin_deleted: 'Le profil pin a été supprimé avec succès'
+    pin_no_delete: 'Impossible de supprimer ce profil pin'
+    pin_no_so_account: 'Aucun profil pin n'a pu être créé pour vous car votre entreprise ne dispose d'aucune offre de services associée'
     pin_no_so_user: "Aucun profil pin n'a pu être créé pour cet utilisateur car cette entreprise ne dispose d'aucune offre de services associée"
-    pin_regenerated: "Le profil pin a été renouvelé avec succès"
-    pin_updated: "Le profil pin a été mis à jour avec succès"
-    please_fix: "Veuillez corriger les erreurs suivantes"
-    reset_link_sent: "Un e-mail contenant un lien de réinitialisation de mot de passe a été envoyé à votre adresse e-mail"
+    pin_regenerated: 'Le profil pin a été renouvelé avec succès'
+    pin_updated: 'Le profil pin a été mis à jour avec succès'
+    please_fix: 'Veuillez corriger les erreurs suivantes'
+    reset_link_sent: "Un e-mail contenant un lien de réinitialisation du mot de passe va être envoyé à votre adresse e-mail si vous êtes un utilisateur enregistré"
     select_from_to: "Veuillez sélectionner à la fois les paramètres de recherche De et À."
     select_from_to_html: "Veuillez spécifier des horaires <strong>de début</strong> et <strong>de fin</strong> valides."
-    service_created: "Service créé avec succès"
-    service_deleted: "Service supprimé avec succès"
-    service_not_deleted: "Le service partenaire n'a pas pu être supprimé : veuillez réessayer dans quelques minutes."
-    service_updated: "Service mis à jour avec succès"
-    specify_enterprise: "Veuillez spécifier une entreprise."
-    start_before_end: "La date de début doit être fixée avant la date de fin"
-    start_end_valid: "Les dates de début et de fin doivent être valides"
-    stats_no_permission: "Désolés, vous n'êtes pas autorisé à accéder aux statistiques liées à cette entreprise."
+    service_created: 'Service créé avec succès'
+    service_deleted: 'Service supprimé avec succès'
+    service_not_deleted: 'Le service partenaire n'a pas pu être supprimé : veuillez réessayer dans quelques minutes.'
+    service_updated: 'Service mis à jour avec succès'
+    specify_enterprise: 'Veuillez spécifier une entreprise.'
+    start_before_end: 'La date de début doit être avant la date de fin'
+    start_end_valid: 'Les dates de début et de fin doivent être valides'
+    stats_no_permission: 'Désolés, vous n'êtes pas autorisé à accéder aux statistiques liées à cette entreprise.'
     unify_inaccessibly: "Désolés, nous sommes actuellement incapables d'accéder à l'API Unify : veuillez réessayer dans quelques minutes."
-    user_deleted: "L'utilisateur a été supprimé avec succès."
-    user_not_deleted: "Impossible de supprimer cet utilisateur"
-    user_updated: "L'utilisateur a été mis à jour avec succès"
-    vmr_deleted: "La salle de réunion virtuelle a été supprimée avec succès"
-    vmr_email_sent_account: "Un e-mail vous a été envoyé avec les informations concernant vos salles de réunion virtuelles"
-    vmr_email_sent_user: "Un e-mail a été envoyé à cet utilisateur avec les informations concernant ses salles de réunion virtuelles"
-    vmr_not_deleted: "Impossible de supprimer cette salle de réunion virtuelle"
-    vmr_updated: "salle de réunion virtuelle mise à jour avec succès"
+    user_deleted: 'L'utilisateur a été supprimé avec succès.'
+    user_not_deleted: 'Impossible de supprimer cet utilisateur'
+    user_updated: 'L'utilisateur a été mis à jour avec succès'
+    vmr_deleted: 'La salle e réunion virtuelle a été supprimée avec succès'
+    vmr_email_sent_account: 'Un e-mail vous a été envoyé avec les informations concernant vos salles de réunion virtuelles'
+    vmr_email_sent_user: 'Un e-mail a été envoyé à cet utilisateur avec les informations concernant ses salles de réunion virtuelles'
+    vmr_not_deleted: 'Impossible de supprimer cette salle de réunion virtuelle'
+    vmr_updated: 'Salle e réunion virtuelle mise à jour avec succès'

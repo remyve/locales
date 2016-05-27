@@ -1,95 +1,110 @@
-fr:
+﻿fr:
   reports:
-    actual_end: "Actual End"
-    actual_start: "Actual Start"
-    agg_price_plan_orders: "Aggregate Price Plan Orders"
-    agg_price_plan_summary: "Aggregate Price Plan Order Summary"
-    agg_vmrs_activated: "Aggregate Price Plan Vmrs Activated"
-    agg_vmrs_deleted: "Aggregate Price Plan Vmrs Deleted"
-    agg_vmrs_provisioned: "Aggregate Price Plan Vmrs Provisioned"
-    average_conference_duration: "Average Conference Duration"
-    average_conferences_per_room: "Average Conferences Per Room"
-    average_duration: "Average Duration"
-    average_rooms_per_conference: "Average Rooms Per Conference"
-    bridge_name: "Bridge Name"
-    call_direction: "Call Direction"
-    calls: "Calls"
-    columns: "Columns"
-    conf_usage_suppary_rep: "Conference Usage Summary Report"
-    conference_date: "Conference Date"
-    conference_end_time: "Conference End Time"
-    conference_id: "Conference Id"
-    conference_start_time: "Conference Start Time"
-    conference_type: "Conference Type"
-    conferences: "Conferences"
-    date_activated: "Date Activated"
-    date_provisioned: "Date Provisioned"
-    dedicated_operator: "Dedicated Operator"
-    dep_conf_usage_suppary_rep: "Dept Conference Usage Summary Report"
-    dep_usage_summary_rep: "Department Usage Summary Report"
-    department: "Department"
-    department_name: "Department Name"
-    duration: "Duration"
-    end_date: "End Date"
-    endpoint_address: "Endpoint Address"
-    endpoint_management_type: "Endpoint Management Type"
-    endpoint_name: "Endpoint Name"
-    endpoint_type: "Endpoint Type"
-    endpoint_use_type: "Endpoint Use Type"
-    enterprise_name: "Enterprise Name"
-    enterprise_usage_summary_rep: "Enterprise Usage Summary Report"
-    host_email: "Host Email"
-    host_enterprise_name: "Host Enterprise Name"
-    host_gma: "Host GMA"
-    host_name: "Host Name"
-    is_active: "Is Active"
-    leg_usage_type: "Leg Usage Type"
-    media_type: "Media Type"
-    mediated_conference_id: "Mediated Conference Id"
-    meeting_title: "Meeting Title"
-    month: "Month"
-    no_results: "No Results"
-    no_results_message: "No results are available to be displayed."
-    number_of_participants: "Number of Participants"
-    order_id: "Order ID"
-    participant_dialed_number: "Participant Dialed Number"
-    participant_endpoint_model: "Participant EndPoint Model"
-    participant_endpoint_name: "Participant Endpoint Name"
-    participant_endpoint_type: "Participant Endpoint Type"
-    participant_enterprise_name: "Participant Enterprise Name"
-    participant_exchange_name: "Participant Exchange Name"
-    participant_gma: "Participant GMA"
-    participant_number: "Participant Number"
-    participant_room: "Participant Room"
-    partner_usage_summary_rep: "Partner Usage Summary Report"
-    provisioned_by: "Provisioned By"
-    quarter: "Quarter"
-    ramp_up_details: "Ramp Up Details"
-    requested_by: "Requested By"
-    requester_contact: "Requester Contact"
-    scheduled_conference_id: "Scheduled Conference Id"
-    scheduled_end: "Scheduled End"
-    scheduled_end_time: "Scheduled End Time"
-    scheduled_start: "Scheduled Start"
-    scheduled_start_time: "Scheduled Start Time"
-    scheduler_contact: "Scheduler Contact"
-    scheduler_email: "Scheduler Email"
-    select_enterprise: "Select Enterprise"
-    select_month: "Select Month"
-    select_partner: "Select Partner"
-    select_quarter: "Select Quarter"
-    select_vmr: "Select VMR"
-    select_year: "Select Year"
-    select_year_month: "Select Year/Month"
-    service: "Service"
-    service_offer: "Service Offer"
-    service_offer_name: "Service Offer Name"
-    start_date: "Start Date"
-    total_conferences: "Total Conferences"
-    total_usage_minutes: "Total Usage Minutes"
-    vmr_host_login_name: "VMR Host Login Name"
-    vmr_name: "VMR Name"
-    vmr_owner: "VMR Owner"
-    vmr_price_plan: "VMR Price Plan"
-    vmr_usage_summary_rep: "VMR Usage Summary Report"
-    year: "annee"
+    active_vmrs: 'VMR actives'
+    actual_end: 'Fin effective'
+    actual_start: 'Début effectif'
+    agg_price_plan_orders: 'Commandes en forfait regroupé'
+    agg_price_plan_summary: 'Synthèse des forfaits regroupés'
+    agg_vmrs_activated: 'VMR activées en forfait regroupé'
+    agg_vmrs_deleted: 'VMR supprimées en forfait regroupé'
+    agg_vmrs_provisioned: 'VMR provisionnées en forfait regroupé'
+    average_conference_duration: 'Durée moyenne de la conférence'
+    average_conference_per_participant: 'Nombre moyen de conférences par participant'
+    average_duration: 'Durée moyenne'
+    average_participant_per_conference: 'Nombre moyen de participants par conférence'
+    bridge_name: 'Nom du pont'
+    call_direction: 'Direction de l'appel'
+    call_type: 'Type d'appel'
+    calls: 'Appels'
+    columns: 'Colonnes'
+    conf_usage_suppary_rep: 'Rapport de conférences'
+    conference_date: 'Date de la conférence'
+    conference_end_time: 'Heure de fin de la conférence'
+    conference_id: 'Identifiant de la conférence'
+    conference_start_time: 'Heure de début de la conférence'
+    conference_type: 'Type de conférence'
+    conferences: 'Conférences'
+    currency: 'Devise'
+    date_activated: 'Date d'activation'
+    date_provisioned: 'Date de création'
+    dedicated_operator: 'Opérateur dédié'
+    dep_conf_usage_suppary_rep: 'Rapport de conférence par département'
+    dep_usage_summary_rep: 'Rapport d'utilisation par département'
+    department: 'Département'
+    department_name: 'Nom du département'
+    discount: 'Réduction(%)'
+    duration: 'Durée'
+    end_date: 'Date de fin'
+    endpoint_address: 'Adresse du terminal'
+    endpoint_management_type: 'Type de gestion du terminal'
+    endpoint_name: 'Nom du terminal'
+    endpoint_type: 'Type de terminal'
+    endpoint_use_type: 'Type d'utilisation du terminal'
+    enterprise_name: 'Nom de l'entreprise'
+    enterprise_usage_summary_rep: 'Rapport d'utilisation par entreprise'
+    host_department: 'Département organisateur'
+    host_email: 'E-mail de l'organisateur'
+    host_enterprise_name: 'Nom de l'entreprise organisatrice'
+    host_gma: 'GMA de l'organisateur'
+    host_name: 'Nom de l'organisateur'
+    is_active: 'Est actif'
+    leg_usage_type: 'Type d'utilisation du mode de connexion'
+    media_type: 'Type de média'
+    mediated_conference_id: 'Identifiant de conférence par code de médiation'
+    meeting_title: 'Nom de la réunion'
+    min_committed_vmrs: 'Nombre minimum de VMR dues'
+    month: 'Mois'
+    mrc: 'MRC'
+    no_results: 'Aucun résultat à afficher'
+    no_results_message: 'Aucun résultat disponible à afficher.'
+    number_of_participants: 'Nombre de participants'
+    order_id: 'Identifiant de la commande'
+    participant_dialed_number: 'Numéro composé par le participant '
+    participant_endpoint_model: 'Modèle de terminal du participant'
+    participant_endpoint_name: 'Nom du terminal du participant'
+    participant_endpoint_type: 'Type de terminal du participant'
+    participant_enterprise_name: 'Nom de l'entreprise du participant'
+    participant_exchange_name: 'Nom de l'Exchange du participant'
+    participant_gma: 'GMA du participant'
+    participant_number: 'Numéro du participant'
+    participant_room: 'Salle du participant'
+    partner_usage_summary_rep: 'Rapport d'utilisation des partenaires'
+    provisioned_by: 'Créé par'
+    provisioned_vmr_volume_tier: 'Palier de VMR créées atteint'
+    provisioned_vmrs: 'VMR créées'
+    quarter: 'Trimestre'
+    ramp_up_details: 'Détails de croissance'
+    rate_per_unit: 'Prix à l’unité'
+    requested_by: 'Demandé par'
+    requester_contact: 'Coordonnées du demandeur'
+    scheduled_conference_id: 'Identifiant de la conférence programmée'
+    scheduled_end: 'Fin programmée'
+    scheduled_end_time: 'Heure de fin programmée'
+    scheduled_start: 'Début programmé'
+    scheduled_start_time: 'Heure de début programmé'
+    scheduler_contact: 'Coordonnées du programmateur'
+    scheduler_email: 'E-mail du programmateur'
+    select_enterprise: 'Sélectionner l'entreprise'
+    select_month: 'Sélectionner le mois'
+    select_partner: 'Sélectionner le partenaire'
+    select_quarter: 'Sélectionner le trimestre'
+    select_vmr: 'Sélectionner la VMR'
+    select_year: 'Sélectionner l'année'
+    select_year_month: 'Sélectionner le mois/l'année'
+    service: 'Service'
+    service_offer: 'Offre de services'
+    service_offer_name: 'Nom de l'offre'
+    service_offer_vmr: 'Type d'offre (type/taille de la VMR)'
+    start_date: 'Date de début'
+    total_billable_vmrs_current_quarter: 'Nombre total des VMR facturables (trimestre en cours)'
+    total_billable_vmrs_previous_quarter: 'Nombre total des VMR facturables (trimestre précédent)'
+    total_conferences: 'Nombre total des conférences'
+    total_usage_minutes: 'Nombre total des minutes d'utilisation'
+    vmr_host_login_name: 'Identifiant de la VMR organisatrice'
+    vmr_name: 'Nom de la VMR'
+    vmr_overage: 'Dépassement de VMR'
+    vmr_owner: 'Propriétaire de la VMR'
+    vmr_price_plan: 'Type de forfait VMR'
+    vmr_type: 'Type de VMR'
+    vmr_usage_summary_rep: 'Rapport d'utilisation de VMR'
+    year: 'Année'

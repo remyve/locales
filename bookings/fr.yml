@@ -1,13 +1,13 @@
 ﻿fr:
   bookings:
-    booking_properties: "Propriétés de réservation"
-    conference: "Conférence"
-    delete_confirmation: "Êtes-vous sûr de vouloir supprimer cette réservation ?"
-    important_note: "Remarque importante :"
-    important_note_text: "Les disponibilités de la salle indiquées ci-dessus sont basées sur les réunions réservées grâce à ce portail uniquement. Il se peut qu'elles ne reflètent pas le calendrier précis d'une salle si la salle est réservée par toute autre source en dehors de ce portail."
-    maintenance: "Maintenance"
-    manage_bookings: "Gérer les réservations"
-    properties: "Propriétés de réservation"
-    reason: "Motif de la réservation"
-    reservation: "Réservation"
-    title: "Titre de la réservation"
+    booking_properties: 'Propriétés de la réservation'
+    conference: 'Conférence'
+    delete_confirmation: 'Êtes-vous sûr de vouloir supprimer cette réservation ?'
+    important_note: 'Remarque importante :'
+    important_note_text: 'Les disponibilités des salles indiquées ci-dessus sont basées sur les réunions réservées uniquement par le biais de ce portail. Il se peut qu'elles ne reflètent pas le calendrier exact d'une salle si la salle est réservée par toute autre source en dehors de ce portail.'
+    maintenance: 'Maintenance'
+    manage_bookings: 'Gérer les réservations'
+    properties: 'Propriétés de la réservation'
+    reason: 'Motif de la réservation'
+    reservation: 'Réservation'
+    title: 'Titre de la réservation'

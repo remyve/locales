@@ -1,35 +1,37 @@
 ﻿fr:
   javascript:
-    all_fields: "Vous devez compléter tous les champs requis."
-    booking_end: "La réservation ne peut pas se terminer avant d'avoir commencé"
-    cancel_meeting: "Annuler cette réunion"
-    cancel_recurrent: "Annuler la réunion récurrente"
-    cancel_series: "Annuler la série"
-    close_access_methods: "Fermer les méthodes d'accès"
-    complete_required: "Veuillez d'abord compléter tous les champs requis"
-    delete_info_warning: "La suppression des informations associées à une salle peut affecter les conférences ultérieures existantes ainsi que la capacité à utiliser la salle lors d'une conférence. Souhaitez-vous supprimer cette propriété ?"
-    enforced_warning: "Lorsqu'ils sont définis sur « APPLIQUÉS », il se peut que certains terminaux ne puissent pas rejoindre la conférence"
-    equipment_make: "Création de terminal requise si le modèle d'équipement est spécifié."
-    equipment_model: "Modèle d'équipement requis si la création de terminal est spécifiée."
-    error_message: "Message d'erreur"
-    invalid_email: "Adresse e-mail fournie invalide"
-    is_blank: "est vide"
-    meeting_end: "L'heure de fin de la réunion doit être valide."
-    meeting_end_before_start: "La réunion ne peut pas se terminer avant d'avoir commencé"
-    meeting_start: "L'heure de début de la réunion doit être valide."
-    no_user: "Utilisateur introuvable"
-    not_valid: "n'est pas valide"
-    not_valid_address: "n'est pas une adresse valide"
-    num_screens: "Le nombre d'écrans doit être un nombre supérieur à zéro."
-    original_timezone: "Fuseau horaire initial"
-    room_name: "Le nom de la salle est requis."
-    room_name: "Le nom de la salle est requis."
+    all_fields: 'Tous les champs requis doivent être complétés.'
+    booking_end: 'La réservation ne peut pas se terminer avant d'avoir commencé'
+    cancel_meeting: 'Annuler cette réunion'
+    cancel_recurrent: 'Annuler la réunion récurrente'
+    cancel_series: 'Annuler la série'
+    close_access_methods: 'Fermer les méthodes d'accès'
+    complete_required: 'Veuillez d'abord compléter tous les champs requis'
+    delete_info_warning: 'La suppression des informations associées à une salle peut affecter les conférences ultérieures existantes ainsi que la capacité à utiliser la salle lors d'une conférence. Souhaitez-vous supprimer cette propriété ?'
+    enforced_warning: 'Lorsqu'ils sont définis sur « FORCÉS », il se peut que certains terminaux ne puissent pas rejoindre la conférence'
+    equipment_make: 'Marque du terminal requise si le modèle d'équipement est spécifié.'
+    equipment_model: 'Modèle d'équipement requis si la marque du terminal est spécifiée.'
+    error_message: 'Message d'erreur'
+    invalid_email: 'Adresse e-mail fournie invalide'
+    is_blank: 'est vide'
+    meeting_end: 'L'heure de fin de la réunion doit être valide.'
+    meeting_end_before_start: 'La réunion ne peut pas se terminer avant d'avoir commencé'
+    meeting_scheduled: 'La réunion doit être programmée au moins 15 minutes avant l'heure à laquelle elle se termine.'
+    meeting_start: 'L'heure de début de la réunion doit être valide.'
+    no_user: 'Utilisateur introuvable'
+    not_valid: 'n'est pas valide'
+    not_valid_address: 'n'est pas une adresse valide'
+    num_screens: 'Le nombre d'écrans doit être un nombre supérieur à zéro.'
+    original_timezone: 'Fuseau horaire initial'
+    report_time: 'Le rapport ne peut pas être exécuté pour la sélection actuelle. Veuillez réduire la différence entre la date de début et la date de fin à 31 jours, ou moins.'
+    room_name: 'Le nom de la salle est requis.'
+    room_name: 'Le nom de la salle est requis.'
     specify_ip_address: "Veuillez saisir au moins une adresse IP valide"
-    specify_room_data: "Veuillez saisir au moins un numéro E.164, une adresse SIP ou une adresse H.323"
-    timezone_change_confirm_1: "La/les réunion(s) que vous essayez de modifier a/ont été créée(s) dans le"
-    timezone_change_confirm_2: "fuseau horaire. Les remplacer par"
-    timezone_change_confirm_3: "le fuseau horaire provoquera le calcul de nouvelles heures de début et de fin de la réunion. Souhaitez-vous continuer ?"
-    valid_start_end: "Veuillez saisir une date de début et de fin valide."
-    validation_error: "Erreur de validation"
-    view_access_methods: "Visualiser les méthodes d'accès"
+    specify_room_data: 'Veuillez saisir au moins un numéro E.164, une adresse SIP ou une adresse H.323'
+    timezone_change_confirm_1: 'La/les réunion(s) que vous essayez de modifier a/ont été créée(s) dans le'
+    timezone_change_confirm_2: 'fuseau horaire. Les remplacer par'
+    timezone_change_confirm_3: 'le fuseau horaire provoquera le calcul de nouvelles heures de début et de fin de la réunion. Souhaitez-vous continuer ?'
+    valid_start_end: 'Veuillez saisir une date de début et de fin valide.'
+    validation_error: 'Erreur de validation'
+    view_access_methods: 'Visualiser les méthodes d'accès'
 

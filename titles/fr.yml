@@ -1,24 +1,24 @@
 ﻿fr:
   titles:
-    conference_details: "Détails de la conférence"
-    conference_report: "Rapport sur la conférence"
-    create_password: "Créer un mot de passe"
-    create_pin: "Créer un profil pin"
-    create_vmr: "Créer une salle de réunion virtuelle"
-    edit_pin: "Éditer le profil pin"
-    forgot_password: "Mot de passe oublié"
-    login: "Identifiant de compte"
-    manage_meetings: "Gérer les réunions programmées"
-    manage_vmrs: "Gérer les salles de réunion virtuelles"
-    multipoint_conf_stats: "Statistiques liées aux conférences MultiPoint"
-    my_dashboard: "Mon tableau de bord"
-    portal: "Portail"
-    ptpt_conf_stats: "Statistiques liées aux conférences Pt_Pt"
-    reset_password: "Réinitialiser le mot de passe"
-    schedule_meeting: "Programmer une réunion"
-    set_password: "Définir un nouveau mot de passe"
-    title: "Titre"
-    usage_by_room: "Utilisation par salle"
-    user_account_creation: "Création de compte d'utilisateur"
-    view_scheduled_meeting: "Afficher la réunion programmée"
-    vmr_usage_summary: "Synthèse de l'utilisation des salles de réunion virtuelles"
+    conference_details: 'Rapport détaillé des conférences'
+    conference_report: 'Rapport sur la conférence'
+    create_password: 'Créer un mot de passe'
+    create_pin: 'Créer un profil pin'
+    create_vmr: 'Créer une salle de réunion virtuelle'
+    edit_pin: 'Éditer le profil pin'
+    forgot_password: 'Mot de passe oublié'
+    login: 'Identifiant de compte'
+    manage_meetings: 'Gérer les réunions programmées'
+    manage_vmrs: 'Gérer les salles de réunion virtuelles'
+    multipoint_conf_stats: 'Statistiques liées aux conférences MultiPoint'
+    my_dashboard: 'Mon tableau de bord'
+    portal: 'Portail'
+    ptpt_conf_stats: 'Statistiques liées aux conférences Pt_Pt'
+    reset_password: 'Réinitialiser le mot de passe'
+    schedule_meeting: 'Programmer une réunion'
+    set_password: 'Définir un nouveau mot de passe'
+    title: 'Titre'
+    usage_by_room: 'Utilisation par salle'
+    user_account_creation: 'Création de compte utilisateur'
+    view_scheduled_meeting: 'Afficher la réunion programmée'
+    vmr_usage_summary: 'Synthèse d'utilisation de VMR'
