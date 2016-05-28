@@ -16,7 +16,7 @@
     department: 'Département'
     email_confirm: 'Cela générera un e-mail pour l'utilisateur avec un lien de réinitialisation du mot de passe. Êtes-vous sûr ?'
     enterprise_admin: 'Administrateur de l'entreprise'
-    exchange_reader: 'Vue de l'exchange ID'
+    exchange_reader: 'Vue de l'Échange ID'
     first_name: 'Prénom'
     jamvee_ondemand: 'Conférence vidéo à la demande Jamvee'
     jamvee_unified: 'Jamvee Communications unifiées'
@@ -31,4 +31,4 @@
     scheduled_meetings: 'Réunions programmées'
     select_creation: 'Sélectionnez une méthode de création'
     single_user: 'Utilisateur unique'
-    user_priority: « Priorité utilisateur »
+    user_priority: « Priorité à l'utilisateur »

@@ -1,23 +1,23 @@
 ﻿fr:
   menu:
     contact_us: 'Nous contacter'
-    login: 'Se connecter'
-    logout: 'Se déconnecter'
+    login: 'Connexion'
+    logout: 'Déconnexion'
     manage: 'Gérer'
-    meeting_control: 'Contrôle de la réunion'
+    meeting_control: 'Contrôle de réunion'
     my_account: 'Mon compte'
     reports: 'Rapports'
     support: 'Assistance'
     # Reports
     active_vmr: 'Rapport de croissance de VMR active'
     conference_details: 'Rapport détaillé des conférences'
-    conference_report: 'Rapport sur la conférence'
-    multipoint_report: 'Statistiques liées à la conférence MultiPoint'
-    ptpt_report: 'Statistiques liées aux conférences Pt_Pt'
-    scheduled_conference: 'Rapports de conférence programmée'
+    conference_report: 'Rapport des conférence'
+    multipoint_report: 'Statistiques de conférences Multipoints'
+    ptpt_report: 'Statistiques de conférences Point à Point'
+    scheduled_conference: 'Rapports de conférence '
     usage_by_room: 'Utilisation par salle'
-    vmr_reports: 'Rapports VMR'
-    vmr_usage_report: 'Rapport d'utilisation de VMR'
+    vmr_reports: 'Rapports de VMR'
+    vmr_usage_report: 'Rapport d'utilisation des VMR'
     # Manage
     conferences: 'Conférences'
     enterprises: 'Entreprises'
@@ -29,18 +29,18 @@
     apps: 'Applis'
     apps_dls: "Applis et téléchargements"
     contact_support: "Contacter l'assistance"
-    create_request: 'Créer une demande'
+    create_request: 'Ouvrir un ticket'
     create_ticket: "Créer un ticket"
     docs: 'Documentation'
     faq: 'FAQ'
     guides: "Guides et tutoriels"
     partner_docs: 'Documentation des partenaires'
     pop_queries: "Questions fréquentes"
-    service_info: "Informations et mises à jour concernant le service"
+    service_info: "Informations et mises à jour"
     support_contact: 'Contacter le support'
     ticket: 'Ouvrir un ticket'
     # Footer links
-    acceptable_use: 'Politique d'utilisation acceptable'
+    acceptable_use: 'Politique d'utilisation équitable'
     privacy_policy: 'Politique de confidentialité'
     terms_of_use: 'Conditions d'utilisation'
 
